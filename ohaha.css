@@ -1,0 +1,42 @@
+h1 {
+ text-align: center;
+ border: 10px solid black;
+}
+
+main {
+  background-color: blue;
+  padding: 10px;
+}
+
+ol {
+  background-color: white;
+  border: 10px solid black;
+  
+}
+ul {
+  background-color: black;
+  padding: 10px;
+  font-size: large;
+}
+li {
+  background-color: white;
+  font-size: large;
+}
+
+h2 {
+  background-color: white;
+  padding: 10px;
+  border: 10px solid black;
+}
+
+p {
+  background-color: white;
+  font-size: large;
+  border: 10px solid black;
+}
+
+footer {
+  text-align: center;
+  border: solid black;
+  font-size: larger;
+}
